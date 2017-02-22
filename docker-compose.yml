@@ -1,0 +1,6 @@
+version: "2"
+services:
+  pypy_slog:
+    build:
+      context: .
+      dockerfile: Dockerfile

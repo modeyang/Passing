@@ -1,0 +1,9 @@
+---
+
+input:
+  - name: console
+
+filter:
+
+output:
+  - name: console
